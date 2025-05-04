@@ -3,3 +3,6 @@ langchain
 langgraph
 tavily-python
 polygon
+
+
+-e .
