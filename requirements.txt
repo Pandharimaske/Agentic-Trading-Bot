@@ -4,6 +4,8 @@ langchain_community
 langgraph
 tavily-python
 polygon
-
-
+langchain_google_genai
+streamlit
+fastapi[all]
+uvicorn
 -e .
